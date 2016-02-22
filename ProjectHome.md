@@ -1,0 +1,1 @@
+a project use java to design T shirt online/offline,as well as to view others' design.It's expected to form a network for designer in the future
